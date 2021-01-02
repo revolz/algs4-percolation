@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="PercolationVisualizer" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="PercolationVisualizer" />
+    <module name="algs4-percolation" />
+    <option name="PROGRAM_PARAMETERS" value="input20.txt" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="PercolationStats" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="PercolationStats" />
+    <module name="algs4-percolation" />
+    <option name="PROGRAM_PARAMETERS" value="30 10000" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
