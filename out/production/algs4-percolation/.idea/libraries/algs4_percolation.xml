@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="algs4-percolation">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Percolation_Pass_100pct.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Percolation_Pass_92pct_except_backwash.zip!/" />
+      <root url="jar://$PROJECT_DIR$/algs4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Percolation_Pass_80pct.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
